@@ -18,15 +18,15 @@ def greeting (greeting, name)
 
 end
 
-def return_a_value (statement)
+def return_a_value 
   
-  return statement
+  return 'Nice'
 
 end
 
 
-def last_evaluated_value (statement)
-  return statement
+def last_evaluated_value 
+  return 'expert'
 
 end
 
